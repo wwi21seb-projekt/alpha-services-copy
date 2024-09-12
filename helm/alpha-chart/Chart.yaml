@@ -12,7 +12,7 @@ dependencies:
     version: 0.99.0
     repository: https://open-telemetry.github.io/opentelemetry-helm-charts
   - name: kube-prometheus-stack
-    version: 61.3.2
+    version: 62.7.0
     repository: https://prometheus-community.github.io/helm-charts
     condition: prometheus.enabled
   - name: jaeger
