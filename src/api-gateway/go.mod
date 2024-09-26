@@ -7,7 +7,7 @@ require (
 	github.com/gin-contrib/graceful v1.0.2
 	github.com/gin-contrib/zap v1.1.3
 	github.com/gin-gonic/gin v1.10.0
-	github.com/go-playground/validator/v10 v10.22.0
+	github.com/go-playground/validator/v10 v10.22.1
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/microcosm-cc/bluemonday v1.0.27
 	github.com/truemail-rb/truemail-go v1.1.3
