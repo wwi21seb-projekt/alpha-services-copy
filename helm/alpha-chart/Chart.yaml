@@ -6,7 +6,7 @@ type: application
 
 dependencies:
   - name: postgresql
-    version: 15.5.20
+    version: 15.5.38
     repository: https://charts.bitnami.com/bitnami
   - name: opentelemetry-collector
     version: 0.99.0
