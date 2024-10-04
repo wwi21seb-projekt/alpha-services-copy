@@ -10,7 +10,7 @@ require (
 	github.com/jackc/pgx/v5 v5.6.0
 	github.com/wwi21seb-projekt/alpha-shared v0.25.2
 	go.opentelemetry.io/otel/trace v1.28.0
-	golang.org/x/crypto v0.25.0
+	golang.org/x/crypto v0.28.0
 	google.golang.org/grpc v1.65.0
 )
 
@@ -43,9 +43,9 @@ require (
 	go.opentelemetry.io/otel/sdk v1.28.0 // indirect
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.26.0 // indirect
-	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.22.0 // indirect
-	golang.org/x/text v0.16.0 // indirect
+	golang.org/x/sync v0.8.0 // indirect
+	golang.org/x/sys v0.26.0 // indirect
+	golang.org/x/text v0.19.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240701130421-f6361c86f094 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 )
